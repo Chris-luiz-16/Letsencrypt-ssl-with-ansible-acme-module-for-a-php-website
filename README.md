@@ -1,4 +1,4 @@
-# Php website automated using an ansible playbook with the desired free SSL on the domain
+# Php website automated using an ansible playbook with the lets encrypt or Buypass free SSL on the domain
 
 This GitHub repository contains a playbook that enables easy deployment of a Git-based PHP website using an Nginx role. The playbook allows users to choose their desired SSL configuration by utilizing ACME validation and modifying the ACME directory.
 
