@@ -1,7 +1,7 @@
 ---
 
 - name: "Uploading the git PHP website using nginx role"
-  hosts: test
+  hosts: amazon
   become: true
   roles:
     - nginx
