@@ -2,6 +2,10 @@
 
 This GitHub repository contains a playbook that enables easy deployment of a Git-based PHP website using an Nginx role. The playbook allows users to choose their desired SSL configuration by utilizing ACME validation and modifying the ACME directory.
 
+
+[Sampl Output.webm](https://github.com/Chris-luiz-16/php-website-with-desired-free-ssl-using-ansible/assets/128575317/47419c29-c2bc-4881-8f08-67c528144f16)
+
+
 ## Playbook Description
 
 The main playbook in this repository, main.yml, automates the process of deploying a PHP website hosted on Git to a remote server. The playbook utilizes the Nginx role and performs the following tasks:
