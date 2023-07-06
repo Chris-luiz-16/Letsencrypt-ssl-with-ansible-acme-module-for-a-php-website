@@ -1,0 +1,113 @@
+---
+
+- name: "Uploading the git PHP website using nginx role"
+  hosts: test
+  become: true
+  roles:
+    - nginx
+  vars:
+    git_url: "https://github.com/Chris-luiz-16/aws-elb-site.git"
+    ssl_dir: /etc/nginx/ssl
+    acme_directory: "https://acme-v02.api.letsencrypt.org/directory"
+  tasks:
+    - name: "Uploading the git contents to the remote server"
+      git:
+        repo: "{{ git_url }}"
+        dest: /tmp/website
+      register: git_status
+    - name: "Copying the contents to the default document root /var/www/html/{{ domain_name }}"
+      when: git_status.changed == true
+      copy:
+        src: /tmp/website/
+        dest: "/var/www/html/{{ domain_name }}/"
+        owner: "{{ nginx_owner }}"
+        group: "{{ nginx_owner }}"
+        remote_src: true
+      notify:
+        - restart-php
+    - name: "Nginx restart required for Letsencrypt validation"
+      service:
+        name: nginx
+        state: restarted
+    - name: "Create a letsencrypt directory for nginx"
+      file:
+        path: "{{ ssl_dir }}/{{ item }}"
+        state: directory
+      with_items:
+        - account
+        - certs
+        - csrs
+        - keys
+    - name: "Generate a account key for acme_module"
+      community.crypto.openssl_privatekey:
+        path: "{{ ssl_dir }}/account/account.key"
+        type: RSA
+        size: 4096
+    - name: "Generate a private key for {{ domain_name }}"
+      community.crypto.openssl_privatekey:
+        path: "{{ ssl_dir }}/keys/{{ domain_name }}.key"
+        type: RSA
+        size: 4096
+    - name: "Generate an csr with the common_name as {{ domain_name }}"
+      community.crypto.openssl_csr:
+        path: "{{ ssl_dir }}/csrs/{{ domain_name }}.csr"
+        privatekey_path: "{{ ssl_dir }}/keys/{{ domain_name }}.key"
+        common_name: "{{ domain_name }}"
+    - name: "First challenge for {{ domain_name }} using the csr and account key"
+      community.crypto.acme_certificate:
+        acme_directory: "{{ acme_directory }}"
+        acme_version: "2"
+        account_key_src: "{{ ssl_dir }}/account/account.key"
+        account_email: "admin@{{ domain_name }}"
+        terms_agreed: true
+        challenge: http-01
+        csr: "{{ ssl_dir }}/csrs/{{ domain_name }}.csr"
+        dest: "{{ ssl_dir }}/certs/{{ domain_name }}.crt"
+        fullchain_dest: "{{ ssl_dir }}/certs/fullchain_{{ domain_name }}.crt"
+      register: sample_com_challenge
+    - name: "Create .well-known/acme-challenge directory"
+      file:
+        path: "/var/www/html/{{ domain_name }}/.well-known/acme-challenge"
+        state: directory
+        owner: "{{ nginx_owner }}"
+        group: "{{ nginx_owner }}"
+    - name: "Copy http-01 challenges to well-known/acme-challenge directory"
+      copy:
+        dest: "/var/www/html/{{ item.key }}/{{ item.value['http-01']['resource'] }}"
+        content: "{{ item.value['http-01']['resource_value'] }}"
+        owner: "{{ nginx_owner }}"
+        group: "{{ nginx_owner }}"
+      loop: "{{ sample_com_challenge.challenge_data | dict2items }}"
+      when: sample_com_challenge is changed
+    - name: "Final letsencrypt verification and saving the full chain file "
+      community.crypto.acme_certificate:
+        acme_directory: "{{ acme_directory }}"
+        acme_version: "2"
+        account_key_src: "{{ ssl_dir }}/account/account.key"
+        account_email: "admin@{{ domain_name }}"
+        terms_agreed: true
+        challenge: http-01
+        csr: "{{ ssl_dir }}/csrs/{{ domain_name }}.csr"
+        dest: "{{ ssl_dir }}/certs/{{ domain_name }}.crt"
+        fullchain_dest: "{{ ssl_dir }}/certs/fullchain_{{ domain_name }}.crt"
+        data: "{{ sample_com_challenge }}"
+      notify:
+        - restart-nginx
+    - name: "Activate SSL in nginx conf"
+      blockinfile:
+        path: "/etc/nginx/conf.d/{{ domain_name }}.conf"
+        marker: "##<!-- {mark} ANSIBLE MANAGED BLOCK -->"
+        insertafter: "root /var/www/html/{{ domain_name }};"
+        block: |
+          listen 443 ssl;
+          ssl_certificate {{ ssl_dir }}/certs/fullchain_{{ domain_name }}.crt;
+          ssl_certificate_key {{ ssl_dir }}/keys/{{ domain_name }}.key;
+          if ($scheme = http) {
+          return 301 https://$server_name$request_uri;
+          } 
+      notify:
+        - restart-nginx
+
+
+
+
