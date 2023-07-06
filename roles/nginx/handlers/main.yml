@@ -1,0 +1,14 @@
+---
+# handlers file for nginx
+
+
+- name: "restart-nginx"
+  service:
+    name: nginx
+    state: restarted
+    enabled: true    
+- name: "restart-php"
+  service:
+    name: php-fpm
+    state: restarted
+    enabled: true

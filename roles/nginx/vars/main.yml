@@ -1,0 +1,12 @@
+---
+# vars file for nginx
+
+
+packages:
+  - nginx
+  - php-fpm
+  - python3-pip
+  - git
+domain_name: "ansible.chrisich.fun"
+nginx_owner: nginx
+ssl_dir: /etc/nginx/ssl
