@@ -23,13 +23,11 @@ The main playbook in this repository, main.yml, automates the process of deployi
 ***
 I'm using amazon linux 2023 and I've installed the ansible using pip3
 ```
-sudo yum install python3-pip -y
+sudo yum install python3-pip git -y
 sudo pip3 install ansible
 ```
 A sample video has been made to guide you.
 
-https://github.com/Chris-luiz-16/php-website-with-desired-free-ssl-using-ansible/assets/128575317/02d3579f-bf3f-4b0c-a86c-5ad013ab2c00
-
-
+https://github.com/Chris-luiz-16/php-website-with-desired-free-ssl-using-ansible/assets/128575317/b05d30b1-15d4-4442-9291-392d0b88b837
 
 
