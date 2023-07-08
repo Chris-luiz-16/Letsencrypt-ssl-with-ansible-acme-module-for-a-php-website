@@ -13,12 +13,12 @@
     - name: "Uploading the git contents to the remote server"
       git:
         repo: "{{ git_url }}"
-        dest: /tmp/website
+        dest: "/tmp/{{ domain_name }}"
       register: git_status
     - name: "Copying the contents to the default document root /var/www/html/{{ domain_name }}"
       when: git_status.changed == true
       copy:
-        src: /tmp/website/
+        src: "/tmp/{{ domain_name }}"
         dest: "/var/www/html/{{ domain_name }}/"
         owner: "{{ nginx_owner }}"
         group: "{{ nginx_owner }}"
