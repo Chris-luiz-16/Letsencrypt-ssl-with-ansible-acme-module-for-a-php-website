@@ -6,7 +6,7 @@
   roles:
     - nginx
   vars:
-    git_url: "https://github.com/Chris-luiz-16/aws-elb-site.git"
+    git_url: "https://github.com/Chris-luiz-16/static-php-website-template.git"
     ssl_dir: /etc/nginx/ssl
     acme_directory: "https://acme-v02.api.letsencrypt.org/directory"
   tasks:
