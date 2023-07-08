@@ -6,7 +6,6 @@
     name: "{{ packages }}"
     state: present
 - name: "Creating an nginx conf for the domain {{ domain_name }}" 
-  when: nginx_conf.stat.exists == false
   template:
     src: nginx.conf.tmpl
     dest: "/etc/nginx/conf.d/{{ domain_name }}.conf" 
