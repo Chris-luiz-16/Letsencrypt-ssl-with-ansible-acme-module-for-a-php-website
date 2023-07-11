@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/issues</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/pulls</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/projects?query=is%3Aopen</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/security</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/0683d70009c431dd8dc56fca0383f66b7911243b</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/releases</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/compare</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507469318</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507295104</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507169726</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507132210</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507093024</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507019900</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504143981</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504135279</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504130842</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/86622efce8f6f8c6e06d90d5176cad16b19abe2f</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels?sort=name-asc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels?sort=name-desc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels?sort=count-desc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels?sort=count-asc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/bug</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/documentation</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/duplicate</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/enhancement</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/good%20first%20issue</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/help%20wanted</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/invalid</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/question</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/labels/wontfix</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507469318/jobs/10037462139</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507469318/jobs/10037471300</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507469318/jobs/10037471061</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507469318/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507295104/jobs/10037067277</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507295104/jobs/10037079074</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507295104/jobs/10037079369</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507295104/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507169726/jobs/10036775185</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507169726/jobs/10036783246</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507169726/jobs/10036783409</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507169726/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507132210/jobs/10036685898</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507132210/jobs/10036695820</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507132210/jobs/10036695626</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507132210/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507093024/jobs/10036597340</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507093024/jobs/10036606048</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507093024/jobs/10036606258</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507093024/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507019900/jobs/10036434921</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507019900/jobs/10036445304</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507019900/jobs/10036445027</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5507019900/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/42d594c368b068ddf2ad75e2cbbe9be04025b1d2</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504143981/jobs/10030049975</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504143981/jobs/10030054822</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504143981/jobs/10030054916</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504143981/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/557b295b7806a6f05a816d7f08e0c820b7ef5e48</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504135279/jobs/10030033995</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504135279/jobs/10030038414</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504135279/jobs/10030038603</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504135279/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/bd7c23de01c98d4691e912bb0c30914db7a8f1b9</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504130842/jobs/10030025473</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504130842/jobs/10030031487</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504130842/jobs/10030031624</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/actions/runs/5504130842/usage</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/8ed93cf760f25e7bfd8e0947597c695c3a07d2a1</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/14f1256947bdea815dc291fb83a327afb4f9f4fc</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/b3d4f00d1682fb4bd3dd0306741dff7f9b4b45fe</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/e464e0cabae08a72976f57c7a12328e5a876b36a</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/6e02971b16da1d8b79604ea7433661c7f1e20cb2</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/78135c8b70049e751fec4ab57622311574c4d7f2</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/39c5bb65b042bbd28143c76ddc38c4f1d984e4eb</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/a1f15c6f317280ff64c2afa1f9f9f1b770e96098</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/734a7344de4fa7fbf3419a3f9c0d61ccf49b3fbd</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/f455cccfb8ad609ee675c4e26123f13ac27da985</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/3b806212b08e25b11a989e122d3e6e0fbb6cbf51</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/dc0f8c9f8ddfba70ebd5f85629be2fd55818bb98</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/263e8c9f0ff741b11f17eb66c2e39cf8e34abda3</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/cede22611b748c15e592b86446445d4e2596d2bd</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/6d671bd45141cab845c6017570209d5d7612f4f7</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/1ad37288429b938727497129afc6c4e6fc31c8c0</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/ff72ff54aa0e9ce41fe39aad642cb03ea94846ce</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/c41406904df29c7920f4232daa6f0c42afac0eb0</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/7addff674ccccfbfe4f64f5a8b591198b5453582</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/c88eeaae0eaa2273d97f48958164d4f11f3868fb</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/c84d98fcde3764ced7853776a9347e6e3f01ca84</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/1675d5f05d6028ac9aa751b3a2f00fd2e22f79b9</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/e29c69a86989e90cb4a788886e0c41db677cdc69</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Chris-luiz-16/Letsencrypt-ssl-with-ansible-acme-module-for-a-php-website/commit/19b8e7e8bfb493ee54de226914e331b7e72f2b76</loc>
+  <lastmod>2023-07-11T04:37:06+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+
+
+</urlset>
